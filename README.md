@@ -2,7 +2,7 @@
 
 Powered by Showoff - http://dark-ruby.herokuapp.com
 
-Presenters: @gautamrege and @khusnaseeb
+Presenters: @gautamrege and @khushnaseeb
 
 ## What is this talk all about?
 
