@@ -1,0 +1,4 @@
+{ "name": "Dark Side of Ruby", "sections": [ { "section": "intro"},
+                                             { "section": "basic"},
+                                             { "section": "oo"}
+                                    ]}
