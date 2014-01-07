@@ -7,17 +7,20 @@ This is for beginners and experts alike – in fact, all the documents are prefi
 # Index
 
 * [The Infamous Infinity](B_The_Infamous_Infinity.md)
-* Keyword wierdness
-* method missing
-* Module inheritance! (huh?)
-* Accessor righteousness
-* Curried Procs for the hungry
 * Base Conversions
+* The star operator
+* Procs, lambdas and our friend stabby.
+* Case statements
+* ==, ===, eql? and equal?
+* Object id
+* super 
+* Proc#curry
+* Protected & Private accessors
+* Keywords
+* method missing
+* Module inheritance
 * Cherry picking module methods
 * Oniguruma games
-* Object id wierdness
-* procs, blocks and our friend stabby.
-* ==, ===, eql? and equal?
 
 # Talks
 
@@ -28,7 +31,8 @@ This is for beginners and experts alike – in fact, all the documents are prefi
 
 Please send me all the quirkiness or wierdness or stunts that you have tried via pull requests.
 
-* Create a file in markdown format with with prefix B or E and the name of hte file.
+* If you don't know how or why something happened, file an issue, I shall try to figure it out.
+* Create a file in markdown format with with prefix B or E and the name of the file.
 * Preferrably put the code sample and some explanation below it. If you're not sure what or why it's happening, I will investigate.
 * Preferrably update this Readme Index
 
