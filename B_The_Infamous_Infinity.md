@@ -17,7 +17,7 @@ irb> Infinity
 Infinity is defined as a constant in the class Float. But it doesn't show up as Float when you divide by zero!
 Infinity is also interesting because now you can compare it with other and even use it in a range! 
 
-```
+```ruby
 irb> inf = 1.0/0
 irb> inf.class
 # => Float

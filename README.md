@@ -21,8 +21,8 @@ This is for beginners and experts alike – in fact, all the documents are prefi
 
 # Talks
 
-[Pune RUG](http://dark-ruby.herokuapp.com)
-[Garden City Ruby Conference](http://www.slideshare.net/gautamrege/gcrc-2014-the-dark-side-of-ruby-29681735)
+* [Pune RUG](http://dark-ruby.herokuapp.com)
+* [Garden City Ruby Conference](http://www.slideshare.net/gautamrege/gcrc-2014-the-dark-side-of-ruby-29681735)
 
 # Contributing
 
