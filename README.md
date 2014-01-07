@@ -6,7 +6,7 @@ This is for beginners and experts alike – in fact, all the documents are prefi
 
 # Index
 
-* [B_The_Infamous_Infinity.md](B_The_Infamous_Infinity.md)
+* [The Infamous Infinity](B_The_Infamous_Infinity.md)
 * Keyword wierdness
 * method missing
 * Module inheritance! (huh?)
@@ -18,6 +18,11 @@ This is for beginners and experts alike – in fact, all the documents are prefi
 * Object id wierdness
 * procs, blocks and our friend stabby.
 * ==, ===, eql? and equal?
+
+# Talks
+
+[Pune RUG](http://dark-ruby.herokuapp.com)
+[Garden City Ruby Conference](http://www.slideshare.net/gautamrege/gcrc-2014-the-dark-side-of-ruby-29681735)
 
 # Contributing
 
