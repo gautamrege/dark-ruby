@@ -6,20 +6,18 @@ This is for beginners and experts alike – in fact, all the documents are prefi
 
 # Index
 
-Keyword wierdness
-method missing
-Module inheritance! (huh?)
-Accessor righteousness
-Curried Procs for the hungry
-Base Conversions
-Cherry picking module methods
-Oniguruma games
-Object id wierdness
-procs, blocks and our friend stabby.
-==, ===, eql? and equal?
-and more…
-As with most of my talks, humor plays an important role and I shall aim to get everyone high on Ruby with a deep dive!
-
+* [B_The_Infamous_Infinity.md](B_The_Infamous_Infinity.md)
+* Keyword wierdness
+* method missing
+* Module inheritance! (huh?)
+* Accessor righteousness
+* Curried Procs for the hungry
+* Base Conversions
+* Cherry picking module methods
+* Oniguruma games
+* Object id wierdness
+* procs, blocks and our friend stabby.
+* ==, ===, eql? and equal?
 
 # Contributing
 
